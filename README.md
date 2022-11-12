@@ -2,7 +2,7 @@
 
 
 
-## Available Scripts
+## Things to do:
 
 In the project directory, you can run:
 
