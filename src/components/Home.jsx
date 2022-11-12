@@ -40,14 +40,58 @@ const Home = () => {
    <Flex className='threebox'>
     <Box className='boxthree'>
       <Text className='threetext' color="#1A1D32">15k+</Text>
+      <Text>Dates and matches
+          made everyday</Text>
     </Box>
     <Box  className='boxthree'>
     <Text className='threetext' color="#B35E21">1,456</Text>
+    <Text>New members
+     signup every day</Text>
     </Box>
     <Box  className='boxthree'>
     <Text className='threetext' color="#1A1D32">1M+</Text>
+    <Text fontSize= "16px">Members from 
+around the world</Text>
     </Box>
    </Flex>
+   <Box className='angle'>
+    <Image src="https://www.linkpicture.com/q/Rectangle-462.png" ></Image>
+    <Box marginTop={5}>
+      <Text as="b">Angela Taylor</Text>
+      <Text>Cincinati, OH</Text>
+    
+    </Box>
+    <Button background=" rgba(245, 155, 90, 1)" color="#F4EBE6;" marginTop={5}>select</Button>
+   </Box>
+   <Box className='mike'>
+    <Image src='https://www.linkpicture.com/q/Rectangle-462-1.png'  ></Image>
+    <Box marginTop={5}>
+      <Text as="b">Mike Johnson</Text>
+      <Text>NY City, NY</Text>
+    </Box>
+    <Button background=" rgba(245, 155, 90, 1)" color="#F4EBE6;" marginTop={5}>select</Button>
+   </Box>
+   <Box className='cardj'>
+    <Box mt="20%" ml="10%">
+    <Text   >CARD NUMBER</Text>
+    <Text as="b" fontSize='3xl'  >3829 4820 4629 5025</Text>
+    </Box>
+     <Box className='star'> 
+     <Image src='https://www.linkpicture.com/q/Fill-211.png'  ></Image>
+     </Box>
+
+     <Box className='moon'> 
+     <Image src='https://www.linkpicture.com/q/Fill-421.png'  ></Image>
+     </Box>
+     <Box ml={10} mt={8}>
+      <Text fontSize="15px">card holder name</Text>
+      <Text as="b" fontSize='1xl'>Anita Rose</Text>
+     </Box>
+     <Box className='ss'>
+      <Text fontSize="15px">vaid thru</Text>
+      <Text as="b" fontSize='1xl'>09/17</Text>
+     </Box>
+   </Box>
      </Box>
    </Box>
   )
