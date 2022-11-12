@@ -1,0 +1,261 @@
+.second_box{
+    position: absolute;
+    width: 1440px;
+    height: 993px;
+    left: 0px;
+    top: -3px;
+    border: 1px solid yellow;
+    background: #FEEFE3;
+    
+}
+.vector_grp{
+    position: absolute;
+width: 1133.5px;
+height: 442.15px;
+left: 517px;
+top: -58px;
+border: 1px solid red;
+opacity: 0.5;
+}
+.vector5{
+position: absolute;
+width: 502.5px;
+height: 253.38px;
+left: 582.58px;
+top: -5.78px;
+/* border: 1px solid rgba(255, 171, 46, 1); */
+transform: rotate(15deg);
+
+}
+.nav{
+    position: absolute;
+width: 1292px;
+height: 53px;
+left: 74px;
+top: 37px;
+border: 1px solid black ;
+
+
+}
+.datify{
+    position: absolute;
+width: 48px;
+height: 24px;
+left: 108px; 
+ top: 50px;
+
+ font-family: 'Google Sans';
+ font-style: normal;
+ font-weight: 700;
+ font-size: 16px;
+ line-height: 24px;
+
+/* identical to box height, or 147% */
+
+
+color: #1A1D32;
+}
+.home{
+    position: absolute;
+width: 46px;
+height: 20px;
+left: 510px;
+top: 53px;
+
+font-family: 'Google Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 24px;
+color: #ED9B59;
+}
+.members{
+    position: absolute;
+width: 73px;
+height: 20px;
+left: 595px;
+top: 53px;
+font-family: 'Google Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 24px;
+
+
+color: #7D8790;
+
+}
+.blog{
+    position: absolute;
+width: 35px;
+height: 20px;
+left: 712px;
+top: 53px;
+color: #7D8790;
+font-family: 'Google Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 24px;
+}
+.privacy{
+    position: absolute;
+width: 58px;
+height: 20px;
+left: 792px;
+top: 53px;
+font-family: 'Google Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 24px;
+   
+color: #7D8790;
+
+}
+.contact{
+    position: absolute;
+    width: 62px;
+    height: 20px;
+    left: 894px;
+    top: 53px;
+   
+    font-family: 'Google Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 24px;
+color: #7D8790;
+
+}
+.login{
+    position: absolute;
+width: 47px;
+height: 20px;
+left: 1134px;
+top: 53px;
+font-family: 'Google Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 24px;
+    
+color: #7D8790;
+
+}
+.register{
+    position: absolute;
+width: 146px;
+height: 52px;
+left: 1220px;
+top: 37px;
+
+background: #ED9B59;
+box-shadow: 0px 100px 161px rgba(245, 155, 90, 0.08), 0px 64.8148px 94.2894px rgba(245, 155, 90, 0.0607407), 0px 38.5185px 51.2815px rgba(245, 155, 90, 0.0485926), 0px 20px 26.1625px rgba(245, 155, 90, 0.04), 0px 8.14815px 13.1185px rgba(245, 155, 90, 0.0314074), 0px 1.85185px 6.33565px rgba(245, 155, 90, 0.0192593);
+border-radius: 40px;
+}
+ /* .reg{
+   
+width: 65px;
+height: 20px;
+left: 1261px;
+top: 54px;
+
+font-family: 'Google Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 20px;
+text-align: center;
+
+
+
+ }  */
+
+ .imgbig {
+    position: absolute;
+width: 651px;
+height: 892px;
+left: 679px;
+top: 108px;
+border: 1px solid black;
+ }
+ .left{
+    position: absolute;
+width: 570px;
+height: 177px;
+left: 71px;
+top: 244px;
+
+font-family: 'Google Sans';
+/* font-style: normal; */
+font-weight: 700;
+font-size: 58px;
+line-height: 101.8%;
+/* or 59px */
+text-align: left;
+
+letter-spacing: -0.01em;
+
+color: #1A1D32;
+
+ }
+ .text{
+    position: absolute;
+width: 520px;
+height: 120px;
+left: 71px;
+top: 458px;
+text-align:justify;
+font-family: 'Google Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* or 150% */
+
+
+color: #1A1D32;
+
+opacity: 0.7;
+ }
+ .inp{
+    position: absolute;
+width: 515px;
+height: 68px;
+left: 72px;
+top: 600px;
+padding: 10px;
+background: #FFFFFF;
+border-radius: 40px;
+ }
+ .inp button {
+    width: 150px;
+    margin-top: 5px;
+    border-radius: 15px;
+  
+ }
+ .inp input{
+    margin-top: 5px;
+    border: none;
+ }
+ .threebox{
+    position: absolute;
+width: 515px;
+height: 127px;
+left: 70px;
+top: 787px;
+border: 1px solid red;
+justify-content: space-between;
+ }
+ .boxthree{
+    width: 139px;
+    height: 127px;
+ }
+ .threetext{
+    font-style: normal;
+font-weight: 700;
+font-size: 56px;
+line-height: 71px;
+letter-spacing: -4px;
+ }
