@@ -10,7 +10,10 @@ In the project directory, you can run:
 
 
 ## CSS library I have used 
-### chakra ui
+### chakra ui   npm i @chakra-ui/react @emotion/react @emotion/styled framer-motion
+
+
+used media query for maximum width of 480 you can see at mobile view
 
 
 
