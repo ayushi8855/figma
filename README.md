@@ -14,6 +14,7 @@ In the project directory, you can run:
 
 
 used media query for maximum width of 480 you can see at mobile view
-
+ 
+ ## deployed link: https://helpful-biscuit-9a1e86.netlify.app/
 
 
